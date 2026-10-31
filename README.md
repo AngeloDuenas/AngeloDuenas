@@ -20,7 +20,7 @@ Contributing to the payload controller for **CADENCE-SWANS**, a 12U CubeSat proj
 
 **Technologies:** KiCad, ATSAMV71, Embedded C, ADC, I2C, Power Electronics, System Integration
 
-[View CADENCE repository](https://github.com/AngeloDuenas/CADENCE)
+[View CADENCE repository](https://github.com/BroncoSpace-Lab/CADENCE-Payload)
 
 ### GPS Tracker V2 | Miniaturized Cellular GNSS Tracker
 
