@@ -8,9 +8,9 @@ My work focuses on turning hardware concepts into practical embedded systems thr
 
 ## Featured Projects
 
-### CADENCE-SWANS | 12U CubeSat Payload Electronics
+### CADENCE | 12U CubeSat Payload Electronics
 
-Contributing to the payload controller for **CADENCE-SWANS**, a 12U CubeSat project focused on space-weather and radiation monitoring.
+Contributing to the payload controller for **CADENCE**, a 12U CubeSat project focused on space-weather and radiation monitoring.
 
 - Developing and reviewing **KiCad schematics** for an **ATSAMV71-based payload controller**, including power distribution, current sensing, and peripheral interfaces.
 - Defining electrical interfaces among the payload controller, **RadFET radiation-sensing boards**, and spacecraft flight computer, with attention to ADC measurements and command/telemetry paths.
@@ -63,7 +63,7 @@ Designed a custom **2-layer control PCB** for a Micromouse robot developed throu
 
 ## Current Focus
 
-- Advancing the CADENCE-SWANS payload controller toward electrical verification and integration.
+- Advancing the CADENCE payload controller toward electrical verification and integration.
 - Reducing GPS tracker size and power consumption through custom PCB design and component-level tradeoffs.
 - Preparing Micromouse hardware for bring-up, sensor validation, and closed-loop motion-control testing.
 - Building a stronger foundation in semiconductor design and hardware miniaturization.
