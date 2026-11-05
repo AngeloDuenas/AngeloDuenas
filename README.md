@@ -34,7 +34,7 @@ Redesigning a GPS-tracking prototype into a **compact, rechargeable, low-power t
 
 **Technologies:** KiCad, ESP32-S3, LTE-M/NB-IoT, GNSS, Embedded Systems, JavaScript, Leaflet
 
-[View GPS tracking interface prototype](https://github.com/AngeloDuenas/GPS-Tracker)
+[View GPS tracking interface prototype](https://github.com/AngeloDuenas/GPS-v2)
 
 ### Micromouse | Autonomous Maze-Solving Robot
 
