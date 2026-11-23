@@ -48,7 +48,7 @@ Designed a custom **2-layer control PCB** for a Micromouse robot developed throu
 
 **Technologies:** Altium Designer, STM32, Embedded C, PCB Layout, Infrared Sensing, Motor Control, Encoders
 
-[View Micromouse repository](https://github.com/AngeloDuenas/Micromouse)
+[View Micromouse repository](https://github.com/AngeloDuenas/Micromouse/tree/Micromouse-v2)
 
 ## Technical Skills
 
