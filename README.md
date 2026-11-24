@@ -24,15 +24,19 @@ Contributing to the payload controller for **CADENCE**, a 12U CubeSat project fo
 
 ### GPS Tracker V2 | Miniaturized Cellular GNSS Tracker
 
-Redesigning a GPS-tracking prototype into a **compact, rechargeable, low-power tracking device**, with the long-term goal of approaching a sticker-sized form factor.
+Developing a compact, rechargeable, low-power cellular GNSS tracking device, with the long-term goal of achieving a sticker-sized form factor through PCB miniaturization and power optimization.
 
-- Exploring an **ESP32-S3** controller, **SIM7080G** cellular/GNSS connectivity, and **LIS3DH** motion sensing for event-driven tracking and low-power operation.
-- Planning a custom PCB around battery capacity, charging, power regulation, antenna placement, component footprint, and sleep-state current consumption.
-- Developed an early web-based tracking interface using **JavaScript, Leaflet, and OpenStreetMap**, with cloud location-data integration as part of the system architecture.
+- Transitioned from an ESP32-S3 and SIM7080G architecture to the **Nordic nRF9151**, integrating LTE-M/NB-IoT connectivity, GNSS positioning, and embedded processing into a single SiP to reduce component count and PCB area.
+- Designing a **custom PCB in Altium Designer**, incorporating the BQ25185 Li-ion battery charger and TPS63802 buck-boost regulator for rechargeable battery operation and stable power delivery.
+- Engineering the power distribution, decoupling, RF/GNSS antenna interfaces, component footprints, and PCB layout with emphasis on miniaturization, manufacturability, and low-power operation.
+- Evaluating motion-triggered tracking, sleep-state power consumption, battery capacity, and cellular transmission efficiency to extend operating life.
+- Developed an initial web-based tracking interface using **JavaScript, Leaflet, and OpenStreetMap**, with cloud-based location reporting planned for system integration.
 
-**Current stage:** Miniaturized PCB architecture, component selection, and power-budget evaluation; further integration and validation remain ahead.
+**Current Stage:** Custom schematic development, component selection, and power-system design in Altium Designer. PCB layout, circuit simulation, manufacturing, and hardware validation are upcoming milestones.
 
-**Technologies:** KiCad, ESP32-S3, LTE-M/NB-IoT, GNSS, Embedded Systems, JavaScript, Leaflet
+**Technologies:** Altium Designer, Nordic nRF9151, LTE-M/NB-IoT, GNSS, Embedded Systems, PCB Design, Power Management, LTspice (planned), JavaScript, Leaflet
+
+**View GPS tracking interface prototype**
 
 [View GPS tracking interface prototype](https://github.com/AngeloDuenas/GPS-v2)
 
