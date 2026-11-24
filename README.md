@@ -36,8 +36,6 @@ Developing a compact, rechargeable, low-power cellular GNSS tracking device, wit
 
 **Technologies:** Altium Designer, Nordic nRF9151, LTE-M/NB-IoT, GNSS, Embedded Systems, PCB Design, Power Management, LTspice (planned), JavaScript, Leaflet
 
-**View GPS tracking interface prototype**
-
 [View GPS tracking interface prototype](https://github.com/AngeloDuenas/GPS-v2)
 
 ### Micromouse | Autonomous Maze-Solving Robot
